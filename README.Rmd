@@ -1,8 +1,5 @@
 ---
-output:
-   html_document:
-      self_contained: false
-      keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -29,7 +26,13 @@ include_graphics("http://www.cahiersdufootball.net/images-article/images2/2018_0
 ```
 
 
-Trois infographies à retrouver ici (dont la première en version interactive)
+Trois infographies à retrouver ici avec les scripts R associés.
+
+
+<br>
+<br>
+
+![](./img/position_club_journee.png)
 
 <br>
 <br>
